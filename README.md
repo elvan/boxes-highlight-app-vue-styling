@@ -1,1 +1,1 @@
-# simple-boxes-app-vue-styling
+# boxes-highlight-app-vue-styling
